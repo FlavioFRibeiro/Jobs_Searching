@@ -1,3 +1,7 @@
+This is the main script, that we can use to search the same information for any job :)
+
+
+
 import os
 from serpapi import GoogleSearch
 import pandas as pd
